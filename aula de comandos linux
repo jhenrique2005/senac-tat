@@ -1,0 +1,27 @@
+codigos sistemas linux
+ctrl-alt-t =terminal
+ctrl-f1
+ctrl- alt-f7
+ctrl-l
+      comandos terminal
+
+sudo apt uptade =atualizar o source list
+sudo apt upgrade =atualizar o sistema
+sudo apt full-upgrade= forcar atualizaçao completa
+sudo apt auto clean=limpeza do cache
+sudo apt autoremove= remover o software desnecessario
+sudo reboot= reiniciar a maquina
+sudo apt dist-upgrade= forcar atualizaçao kernell
+history=historico de comandos
+ctrl=alt=backspace
+
+instalando softwares via gdeb
+google chrome .deb
+
+instalando softwares via terminal 
+sudo apt update
+sudo apt install git vim kolourpaint
+
+instalando pelo gerenciador de aplicativos
+ 
+
