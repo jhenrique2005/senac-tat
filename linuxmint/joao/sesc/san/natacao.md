@@ -1,0 +1,4 @@
+crawl
+peito
+costas
+borboleta
