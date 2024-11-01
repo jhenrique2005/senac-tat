@@ -1,0 +1,1 @@
+trabalhando com o edtidor de texto vim e criando um arquivo ao mesmo tempo

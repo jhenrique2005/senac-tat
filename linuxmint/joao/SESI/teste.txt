@@ -1,0 +1,9 @@
+voltando a digitar textos no Vim porque a aula esta muito chata
+
+utilizando modo de inserçao
+substituiçao
+
+
+senac-tat
+Repositorio das aulas do curso tecnico em informatica do Senac Tatuape SP
+ 
